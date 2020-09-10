@@ -1,0 +1,9 @@
+Open Terminal and do the following
+
+Run 'npm install' without the '' to install all dependencies
+
+Run 'node PostData.js' without the '' to create and post Covid_CSV data into Mongodb
+
+Run 'node server.js' without the '' to start the API server
+
+The ClientSideCovidApp folder is the client frontend application.
